@@ -1,8 +1,8 @@
 # CodeIgniter4
 
-# Problemas com Permissâo Negada para push
+# Problemas com Permissão Negada para push
 
-No windows:
+-No windows:
   tecla windows + gerenciador de credenciais
   Remova todos os dados relacionados ao git
   
@@ -12,4 +12,4 @@ No windows:
   senha CimolInfo9833
   para ter acesso aos repositórios do curso
 
-video completo em inglês: https://youtu.be/aSTTJd5JMXg
+-video completo em inglês: https://youtu.be/aSTTJd5JMXg
